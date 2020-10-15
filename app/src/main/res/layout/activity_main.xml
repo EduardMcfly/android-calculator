@@ -23,7 +23,8 @@
             android:paddingLeft="20dp"
             android:padding="20dp"
             android:textAlignment="textEnd"
-            android:backgroundTintMode="screen" />
+            android:backgroundTintMode="screen"
+            android:gravity="end" />
 
         <LinearLayout
             android:orientation="horizontal"
